@@ -1,0 +1,25 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2018212632/test-for-corsor-colud-computer-use.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2018212632/test-for-corsor-colud-computer-use/issues"
+  },
+  "homepage": "https://github.com/2018212632/test-for-corsor-colud-computer-use#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2"
+  }
+}
